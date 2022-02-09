@@ -118,7 +118,7 @@
 - $ mv newfolder/\_ .
 - $ mv file\* newfolder/
 - $ mv newfolder/ ~/Documents/
-- $ mv ~/Documtns/newfolder/ ./jackpot (~ = home folder)
+- $ mv ~/Documtns/newfolder/ ./jackpot (= home folder)
 
 ## Editing Files using Nano
 
