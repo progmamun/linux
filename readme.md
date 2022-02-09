@@ -1,5 +1,5 @@
 # Linux kernel, an operating system kernel first released on September 17, 1991, by Linus Torvalds. Linux is typically packaged in a Linux distribution.
-
+![Linux-Logo-700x394](https://user-images.githubusercontent.com/67066348/153131084-c07f7293-3b24-4a30-a977-045d214e7a93.png)
 ---
 
 - DNS google: 8.8.8.8 8.8.4.4
